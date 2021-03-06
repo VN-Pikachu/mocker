@@ -122,3 +122,5 @@ done
 ## TODO
 
 The other 99.999% of Docker. I only had 2 days to write this!
+But it is fun to do this.
+
